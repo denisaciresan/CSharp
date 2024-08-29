@@ -1,0 +1,14 @@
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\bin\Debug\net8.0\SistemBancar.exe
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\bin\Debug\net8.0\SistemBancar.deps.json
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\bin\Debug\net8.0\SistemBancar.runtimeconfig.json
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\bin\Debug\net8.0\SistemBancar.dll
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\bin\Debug\net8.0\SistemBancar.pdb
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\obj\Debug\net8.0\SistemBancar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\obj\Debug\net8.0\SistemBancar.AssemblyInfoInputs.cache
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\obj\Debug\net8.0\SistemBancar.AssemblyInfo.cs
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\obj\Debug\net8.0\SistemBancar.csproj.CoreCompileInputs.cache
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\obj\Debug\net8.0\SistemBancar.dll
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\obj\Debug\net8.0\refint\SistemBancar.dll
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\obj\Debug\net8.0\SistemBancar.pdb
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\obj\Debug\net8.0\SistemBancar.genruntimeconfig.cache
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\2. SistemBancar\2. SistemBancar\obj\Debug\net8.0\ref\SistemBancar.dll
