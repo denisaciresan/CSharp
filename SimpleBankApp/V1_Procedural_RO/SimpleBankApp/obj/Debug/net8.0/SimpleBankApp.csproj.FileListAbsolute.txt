@@ -1,0 +1,14 @@
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.exe
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.deps.json
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.runtimeconfig.json
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.dll
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.pdb
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.AssemblyInfoInputs.cache
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.AssemblyInfo.cs
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.csproj.CoreCompileInputs.cache
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.dll
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\obj\Debug\net8.0\refint\SimpleBankApp.dll
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.pdb
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.genruntimeconfig.cache
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Teme\SimpleBankApp\SimpleBankApp\obj\Debug\net8.0\ref\SimpleBankApp.dll
