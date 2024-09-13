@@ -1,0 +1,14 @@
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.exe
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.deps.json
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.runtimeconfig.json
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.dll
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.pdb
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.AssemblyInfoInputs.cache
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.AssemblyInfo.cs
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.csproj.CoreCompileInputs.cache
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.dll
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\obj\Debug\net8.0\refint\GameDataParser.dll
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.pdb
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.genruntimeconfig.cache
+C:\Users\ECIRESD20\OneDrive - NTT DATA EMEAL\Documentos\TechTreck - NTT-2023-2024\Csharp\Udemy\Ultimate Csharp Masterclass\Exercises\GameDataParser\GameDataParser\obj\Debug\net8.0\ref\GameDataParser.dll

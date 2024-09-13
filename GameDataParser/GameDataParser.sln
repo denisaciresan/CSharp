@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDataParser", "GameDataParser\GameDataParser.csproj", "{6DCB7FF4-BE92-4F9F-AB2E-BEC5A731D48E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCB7FF4-BE92-4F9F-AB2E-BEC5A731D48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCB7FF4-BE92-4F9F-AB2E-BEC5A731D48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCB7FF4-BE92-4F9F-AB2E-BEC5A731D48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCB7FF4-BE92-4F9F-AB2E-BEC5A731D48E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1296F830-0E57-4FFB-9DA7-A89E1649035E}
+	EndGlobalSection
+EndGlobal
